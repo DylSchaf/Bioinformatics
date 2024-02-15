@@ -8,4 +8,4 @@ blastp -query ~/Desktop/mystery_protein_query.fasta -db ~/Desktop/mystery_protei
 P010027090796, P010027090798, P010027073865, P010027077695
 The species from the mystery_transcripts.fasta is Coffea arabica
 The species from the mystery query is Gardenia jasminoides
-The gene from the mystery query is putative catalase
+The gene from the mystery query is putative catalase mRNA
