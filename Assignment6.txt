@@ -1,0 +1,27 @@
+1. 15 splice variants
+2. 27 exons
+3. 26 introns
+4. It is found on chromosome 13
+5. BRCC2, FACD, FAD, FAD1, FANCD, FANCD1, and XRCC11
+6. 1 orthologue
+7. GCTCCTGGTTGTCTACCCATGGACCCAGAGGTTCTTTGACAGCTTTGGCAACCTGTCCTC
+TGCCTCTGCCATCATGGGCAACCCCAAAGTCAAGGCACATGGCAAGAAGGTGCTGACTTC
+CTTGGGAGATGCCACAAAGCACCTGGATGATCTCAAGGGCACCTTTGCCCAGCTGAGTGA
+ACTGCACTGTGACAAGCTGCATGTGGATCCTGAGAACTTCAAG  
+8. 122 bp
+9. 723 pseudogenes
+10. ZAR1L and N4BP2L1
+11. rnf32 and RBM33
+12. 1 copy
+13. 4 copies
+14. 17 assemblies
+15. 11 are assembled into chromosomes
+16. 29
+17. Chromosome 1 is the longest in cows
+18. 1,033 microRNAs are annotated
+19. https://www.ncbi.nlm.nih.gov/pubmed/1397682/
+20. 	1 mdllakasvl lllllslsna qtdnmeeaen gsskeeides eledvssiif rmnnnsmeel
+       61 legdlvlpkt rnamkcfgap dscrwpkssn givkvpyvvs dnyesdeket irnamkefae
+      121 ktcihfvprn neraylslep rfgcksmmgy vgdkqvvvlq rfgcikhavi qhellhalgf
+      181 yhehtrsdrd qhvkinweni ikdfthnfdk ndtdnlgtpy dygsimhygr tafgkdrket
+      241 itpipnpkaa igqtermsdi dilrvnklyk c
