@@ -1,3 +1,4 @@
+muscle -in infile.fasta -seqtype protein -maxiters 16 -maxmb 30000000 -hydro 5 -hydrofactor 1.2 -log logfile.txt -weight1 clustalw -distance1 kmer6_6 -cluster1 upgmb -sueff 0.1 -root1 pseudo -maxtrees 1 -weight2 clustalw -distance2 pctidkimura -cluster2 upgmb -sueff 0.1 -root2 pseudo -objscore sp -noanchors -out output.fasta 
 raxmlHPC-HYBRID-AVX -T 4 -n result -s infile.txt -c 25 -p 12345 -m PROTCATDAYHOFF -f a -N 100 -x 12345 --asc-corr lewis
 Dobsonia viridis, Epomorphus wahlbergi, Rousettus leschenaultii, Cynopterus sphinx, Syconycteris australis
 Phylogeny is very important for mapping different strains of viruses. This is seen especially well when looking at all the different covid-19 strains. 
