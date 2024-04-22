@@ -1,0 +1,6 @@
+Felis catus
+FOXG1
+Rank 1: ATGAACACGTCGTCGCTCGACGG Genomic location: B3:80941190
+Left primer: AACAAGTGCTTCGTGAAGGTG Coordinates: B3:80941121-80941142
+Right primer: CCATTGTAACTCAAAGTGCTGC Coordinates: B3:80941380-80941402
+The most visual expected phenotype if FOXG1 was knocked out would be decreased head size.
