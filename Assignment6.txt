@@ -14,11 +14,11 @@ ACTGCACTGTGACAAGCTGCATGTGGATCCTGAGAACTTCAAG
 11. rnf32 and RBM33
 12. 1 copy
 13. 4 copies
-14. 17 assemblies
+14. 26 assemblies
 15. 11 are assembled into chromosomes
 16. 29
 17. Chromosome 1 is the longest in cows
-18. 1,033 microRNAs are annotated
+18. 1,115 microRNAs are annotated
 19. https://www.ncbi.nlm.nih.gov/pubmed/1397682/
 20. 	1 mdllakasvl lllllslsna qtdnmeeaen gsskeeides eledvssiif rmnnnsmeel
        61 legdlvlpkt rnamkcfgap dscrwpkssn givkvpyvvs dnyesdeket irnamkefae
